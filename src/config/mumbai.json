@@ -1,0 +1,25 @@
+{
+    "market": "0x8dCf52e97f0Cb64d88ceE6Cd8B35054BC8A77D9E",
+    "profile": "0xDA47f407ba7170D2a453851384222C6c1c07410B",
+    "nft": "0xb7bB6098779A47d1Ea8e568E35381696D9d781C9",
+    "router": "0x1b02dA8Cb0d097eB8D57A175b88c7D8b47997506",
+    "guru": "0x28701a232B566729381C53E47a3f53b08F50eb4C",
+    "sGuru": "0x7F244A5DA32D3C1727e604Cb16554bFae89579A8",
+    "staking": "0xf7552ecff8f6D58d3762876d886A581c0f275968",
+    "publicRpcUrl": "https://rpc-mumbai.maticvigil.com/",
+    "usdc": "0xa0fb0349526b7213b6be0f1d9a62f952a9179d96",
+    "tokens": {
+      "0x28701a232b566729381c53e47a3f53b08f50eb4c": {
+        "symbol": "GURU",
+        "unit": "gwei",
+        "usdSwapRoute": [
+          "0xa0fb0349526b7213b6be0f1d9a62f952a9179d96",
+          "0x28701a232b566729381c53e47a3f53b08f50eb4c"
+        ]
+      },
+      "0xa0fb0349526b7213b6be0f1d9a62f952a9179d96": {
+        "symbol": "USDC",
+        "unit": "mwei"
+      }
+    }
+  }
